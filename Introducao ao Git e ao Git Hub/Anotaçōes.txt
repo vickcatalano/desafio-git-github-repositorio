@@ -2,3 +2,4 @@
 2. Git Add. : Adicionar todos os arquivos para subir no repositório
 3. Git Push: Empurrar os arquivos para o repositório
 4. Git Clone: Clonar o https do repositório para a máquina local
+5. Git Commit -m : colocar entre aspas o comentario
