@@ -1,0 +1,4 @@
+1. Git Status: Verificar o status e identificar novos arquivos e pastas.
+2. Git Add. : Adicionar todos os arquivos para subir no repositório
+3. Git Push: Empurrar os arquivos para o repositório
+4. Git Clone: Clonar o https do repositório para a máquina local
